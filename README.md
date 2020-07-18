@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi, Its Abdur Rehman Ashraf
+Software Development Engineer at <a href="https://www.afiniti.com/">Afiniti</a>
+#### A little more about me...   👋
 
-<!--
-**rehmanuet/rehmanuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const abdur_rehman = {
+    pronouns: "He" | "Him",
+    code: ["Java", "JavaScript", "Python", "Java"],
+    askMeAbout: ["automation", "aws", "testing", "CICD"],
+    technologies: {
+        webAutomation: ["Puppeteer", "Protractor", "WebdriverIO", "Selenium", "Robot Framework", "UiPath(RPA)"],
+        apiAutomation: {
+            java: ["Rest Assured"],
+            python: ["Request"],
+            javascript: ["Postman"]
+        },
+        framework: ["Chai JS", "Jasmine", "Mocha JS", "TestNG", "Cucumber BDD", "Gherkin", "QAF"],
+        devOps: ["AWS", "Docker🐳", "CircleCI", "TravisCI", "Github Action", "AWS CodeBuild"],
+        databases: ["postgres", "MySql", "Amazon RDS", "DynamoDB"]
+        },
+    architecture: ["Monolith Architecture", "Mircoservices"],
+    currentProject: "WebDriverIO",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href= "https://github.com/rehmanuet/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/rehmanuet/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+</p>
