@@ -1,4 +1,5 @@
-## Hi, Its Abdur Rehman Ashraf
+## Hi, Its Abdur Rehman Ashraf  [![HitCount](http://hits.dwyl.com/rehmanuet/rehmanuet/.svg)](http://hits.dwyl.com/rehmanuet/rehmanuet/)
+
 Software Development Engineer at <a href="https://www.afiniti.com/">Afiniti</a>
 #### A little more about me...   👋
 
