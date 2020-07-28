@@ -5,7 +5,7 @@ Software Development Engineer at <a href="https://www.afiniti.com/">Afiniti</a>
 ```javascript
 const abdur_rehman = {
     pronouns: "He" | "Him",
-    code: ["Java", "JavaScript", "Python", "Java"],
+    code: ["Java", "JavaScript", "Python"],
     askMeAbout: ["automation", "aws", "testing", "CICD"],
     technologies: {
         webAutomation: ["Puppeteer", "Protractor", "WebdriverIO", "Selenium", "Robot Framework", "UiPath(RPA)"],
