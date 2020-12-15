@@ -1,6 +1,5 @@
 ## Hi, Its Abdur Rehman Ashraf
 
-Software Development Engineer at <a href="https://www.afiniti.com/">Afiniti</a>
 #### A little more about me...   👋
 
 ```javascript
