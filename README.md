@@ -8,13 +8,13 @@ const abdur_rehman = {
     code: ["Java", "JavaScript", "Python"],
     askMeAbout: ["automation", "aws", "testing", "CICD"],
     technologies: {
-        webAutomation: ["Puppeteer", "Protractor", "WebdriverIO", "Selenium", "Robot Framework", "UiPath(RPA)"],
+        webAutomation: ["Puppeteer", "Protractor", "WebdriverIO", "Selenium", "Cypress", "UiPath(RPA)"],
         apiAutomation: {
             java: ["Rest Assured"],
             python: ["Request"],
             javascript: ["Postman"]
         },
-        framework: ["Chai JS", "Jasmine", "Mocha JS", "TestNG", "Cucumber BDD", "Gherkin", "QAF"],
+        framework: ["JEST", "Chai JS", "Jasmine", "Mocha JS", "TestNG", "Cucumber BDD", "Gherkin", "QAF"],
         devOps: ["AWS", "Docker🐳", "CircleCI", "TravisCI", "Github Action", "AWS CodeBuild"],
         databases: ["postgres", "MySql", "Amazon RDS", "DynamoDB"]
         },
