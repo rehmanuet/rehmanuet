@@ -1,9 +1,9 @@
-## Hi, Its Abdur Rehman Ashraf
+## Hi,
 
 #### A little more about me...   👋
 
 ```javascript
-const abdur_rehman = {
+const qa_tester = {
     pronouns: "He" | "Him",
     code: ["Java", "JavaScript", "Python"],
     askMeAbout: ["automation", "aws", "testing", "CICD"],
@@ -24,10 +24,3 @@ const abdur_rehman = {
 };
 ```
 <hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p align="center">
-<a href= "https://github.com/rehmanuet/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/rehmanuet/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-</p>
