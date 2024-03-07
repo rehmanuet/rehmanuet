@@ -3,8 +3,7 @@
 #### A little more about me...   👋
 
 ```javascript
-const qa_tester = {
-    pronouns: "He" | "Him",
+const dev = {
     code: ["Java", "JavaScript", "Python"],
     askMeAbout: ["automation", "aws", "testing", "CICD"],
     technologies: {
